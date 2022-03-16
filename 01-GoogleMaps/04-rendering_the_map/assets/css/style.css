@@ -407,3 +407,8 @@ div#map {
         max-width: 50%;
     }
 }
+
+
+/* addition */
+
+div#map {min-height: 360px;}
